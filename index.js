@@ -21,6 +21,6 @@ function addNewLiOnClick() {
 
 function clearEmployeeListOnLinkClick() {
   $('a').text('Clear Employee List').on('click', function() {
-    
+    $('ul.employee-list').empty()
   })
 }
