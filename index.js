@@ -19,4 +19,6 @@ function addNewLiOnClick() {
   $('input[name=name').val('')
 }
 
-function clearEmployeeListOn
+function clearEmployeeListOnLinkClick() {
+  $()
+}
