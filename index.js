@@ -19,4 +19,4 @@ function addNewLiOnClick() {
   $('input[name=name').val('')
 }
 
-function
+function 
