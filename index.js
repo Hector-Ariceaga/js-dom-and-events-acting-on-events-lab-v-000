@@ -15,6 +15,6 @@ function addNewElementAsLi() {
 }
 
 function addNewLiOnClick() {
-  $('input').on('click', addNewElementAsLi())
-  $('input').val('')
+  $('input[type=sumbit').on('click', addNewElementAsLi())
+  $('input[name=name').val('')
 }
