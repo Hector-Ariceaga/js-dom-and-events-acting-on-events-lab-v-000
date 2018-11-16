@@ -13,3 +13,7 @@ function retrieveEmployeeInformation() {
 function addNewElementAsLi() {
   $('ul.employee-list').append(`<li>${retrieveEmployeeInformation()}</li>`)
 }
+
+function addNewLiOnClick() {
+  
+}
